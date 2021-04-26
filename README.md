@@ -4,3 +4,5 @@ In this project we have tried to learn about human population modelling and how 
 
 This project is part of a submission for the course PHY 312: Numerical Methods, IISER Bhopal, Fall 2021.
 
+## GitHub Link
+https://github.com/Derin-Wilson/Analytical-Modelling-of-Human-Population
