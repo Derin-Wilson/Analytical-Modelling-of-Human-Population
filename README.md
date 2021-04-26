@@ -6,7 +6,7 @@ This project is part of a submission for the course PHY 312: Numerical Methods, 
 Fall 2021.
 
 ## Prerequisites
-Python3+, numpy, matplotlib.
+Python3+, numpy, pandas, matplotlib.
 
 
 ## GitHub Link
