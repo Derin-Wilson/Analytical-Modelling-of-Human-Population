@@ -5,6 +5,9 @@ In this project we have tried to learn about human population modelling and how 
 This project is part of a submission for the course PHY 312: Numerical Methods, IISER Bhopal,
 Fall 2021.
 
+## Project Report
+[Link](https://github.com/Derin-Wilson/Analytical-Modelling-of-Human-Population/blob/main/Analytical_Modelling_of_Human_Population.pdf)
+
 ## Prerequisites
 Python3+, numpy, pandas, matplotlib.
 
